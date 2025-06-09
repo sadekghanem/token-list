@@ -1,0 +1,13 @@
+{
+  "name": "SHIBA DOS",
+  "symbol": "SHIBADOS",
+  "description": "SHIBA DOS is a fun and bold meme coin unleashed on Solana. Inspired by the spirit of Shiba and the nostalgia of retro vibes!",
+  "image": "https://raw.githubusercontent.com/sadekghanem/SHIBA-DOS-/main/logo.png",
+  "decimals": 9,
+  "address": "Gc6vgR4QyBEPxw3DxPrd24vojDTeejJrXTW5p3nNdkrg",
+  "extensions": {
+    "website": "https://t.me/shibados", 
+    "twitter": "",
+    "telegram": "https://t.me/shibados"
+  }
+}
